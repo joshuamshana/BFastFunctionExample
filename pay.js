@@ -5,3 +5,7 @@ exports.pay  = (req, res)=>{
 exports.verifyPay = function(req, res){
     res.json({message: 'verify pay'});
 }
+
+exports.joshua = (req, res)=>{
+    res.json({message: 'joshua function works'});
+}
