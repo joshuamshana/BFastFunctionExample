@@ -9,3 +9,7 @@ exports.verifyPay = function(req, res){
 exports.joshua = (req, res)=>{
     res.json({message: 'joshua function works'});
 }
+
+exports.ethan = (req, res) =>{
+    res.json({message: 'ethan functions works'});
+}
