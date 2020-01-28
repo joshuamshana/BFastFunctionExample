@@ -1,5 +1,5 @@
 exports.pay  = {
-    path: '/functions/pay',
+    path: '/pay',
     onRequest: (req, res)=>{
         res.json({message: 'payment methods work'});
     }
