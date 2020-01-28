@@ -1,0 +1,20 @@
+{
+  "name": "BFastFunctionExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuamshana/BFastFunctionExample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuamshana/BFastFunctionExample/issues"
+  },
+  "homepage": "https://github.com/joshuamshana/BFastFunctionExample#readme"
+}
